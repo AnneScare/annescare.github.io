@@ -1,7 +1,5 @@
-
 @keyframes background-pan {
   from {background-position: 0% center;}
   to {background-position: -1000% center;}
-}
-
+};
 body{background-image:url("https://bbk12e1-cdn.myschoolcdn.com/ftpimages/870/news/large_news1216726_1194169.jpg");background-size:fill;animation: background-pan 20s linear infinite;}
